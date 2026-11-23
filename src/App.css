@@ -1,0 +1,8 @@
+.slider {
+  width: 100%;
+  aspect-ratio: 21 / 9; 
+  height: 100%;
+  background-image: url('../public/img/slider2.jpg');
+  background-size: cover;
+  background-position: center 65%;
+}
